@@ -13,7 +13,7 @@ Welcome to the Random Jokes Chrome Extension! This extension fetches a random jo
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/heisenlord/random-jokes-extension.git
+    git clone https://github.com/heisenlord/funjokesChromeExtension.git
     ```
 
 2. Open Google Chrome and go to `chrome://extensions/`.
