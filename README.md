@@ -77,7 +77,7 @@ If you want to contribute or modify the extension, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the License. See the nishanthreddy.vercel.app file for details.
 
 ## Contact
 
